@@ -1,0 +1,25 @@
+.that {
+  --caw: 2px;
+  }
+  
+
+h1 {
+    color: black;
+    font-family: "Impact", impact;
+    text-shadow: -1px -1px 0 rgb(0, 201, 0), 1px -1px 0 rgb(0, 201, 0), -1px 1px 0 rgb(0, 201, 0), 1px 1px 0 rgb(0, 201, 0);
+    font-size: 48px;
+}
+
+p {
+    color: black;
+    font-family: "Impact", impact;
+    text-shadow: -1px -1px 0 green, 1px -1px 0 green, -1px 1px 0 green, 1px 1px 0 green;
+    font-size: 30px;
+}
+
+a {
+  color: black;
+  font-family: "Impact", impact;
+  text-shadow: -1px -1px 0 green, 1px -1px 0 green, -1px 1px 0 green, 1px 1px 0 green;
+  font-size: 30px;
+}
